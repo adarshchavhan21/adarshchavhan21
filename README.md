@@ -11,7 +11,7 @@ I’m currently learning🌱 MERN Stack and applying them on few applications yo
 </br>
 
 #### 📊GitHub Analytics:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchavhan2&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchavhan21&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 #### 👩‍💻Connet with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshchavhan)
